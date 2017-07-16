@@ -8,7 +8,7 @@ Gem::Specification.new do |gem|
   gem.authors       = ['Justin Martin']
   gem.description   = %q{With Amountable, you can easily attach, organize and sum Ruby money fields to your models without migrating. With Amountable Lagniappe, you can do more.}
   gem.summary       = 'Easy Money fields for your Rails models.'
-  gem.homepage      = 'https://github.com/instacart/amountable'
+  gem.homepage      = 'https://github.com/justindmartin/'
   gem.license       = 'ISC'
 
   gem.files         = `git ls-files`.split($/)
